@@ -8,5 +8,7 @@ This repository contains code and results related to the Lagrangian analysis of 
 - Classify particle motions (e.g., eddy-like vs drift-like) using clustering techniques.
 - Evaluate correlations between small-scale motions and total displacements.
 
-## Code Structure
 
+
+Mehrnoush Kharghani – mkhargha@ur.rochester.edu
+PhD Student, Complex Flow Group, University of Rochester
